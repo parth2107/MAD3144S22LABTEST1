@@ -1,0 +1,15 @@
+<HTML>
+    <HEAD><h1> PART THREE</h1></HEAD>
+    <body>
+        <h1>Writing a JS nd using for loop to add the numbers from 1 to 100</h1>
+    </body>
+    <script>
+
+    var sum = 0
+    for (let index = 0; index <= 100; index++) {
+        sum+=index
+    }
+    
+    document.write("<h2>SUM =</h2><p>"+sum+"</p>");
+    </script>
+    </HTML>
