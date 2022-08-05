@@ -1,0 +1,49 @@
+<HTML>
+    <HEAD><h1> A Complete Guide to the Best Rabbit Breeds (Table Content)</h1></HEAD>
+    <body style="background-image: url('bg.jpg');">
+
+        <table>
+            <tr>
+              <th>Rabbit Breeds</th>
+              <th>Image</th> 
+              <th>Description</th>
+            </tr>
+            <tr>
+              <td>American Rabbit</td>
+              <td><img src="American_Rabbit.jpg" alt="Trulli" width="300" height="333"></td> 
+              <td>The rare breed is a great choice for first-time owners because of its calm, sweet nature. Young children, however, are not recommended to care for them since they are shy and may bite if not handled gently. With a great grooming routine and healthy diet, the American rabbit can live up to 12 years.</td>
+            </tr>
+            <tr>
+                <td>Belgian Hare Rabbit</td>
+                <td><img src="Belgian Hare Rabbit.jpg" alt="Trulli" width="300" height="333"></td> 
+                <td>Tracing its roots back to the 18th century, the Belgian Hare is one of the oldest breeds. It thrives best outdoors with ample space and hay. It's considered high maintenance, mostly due to its nervous personality — known to easily spook if people don't properly announce themselves before approaching it.</td>
+            </tr>
+            <tr>
+                <td>Blanc de Hotot</td>
+                <td><img src="Blanc de Hotot.jpg" alt="Trulli" width="300" height="333"></td> 
+                <td>Originating from France, the Blanc de Hotot can easily be spotted by its "black eyeliner" that contrasts the rest of its white body. As a bonus, these bunnies do well with children and other pets as long as they grow up with them. Dedicated brushing time and taking walks outside are amazing ways to bond with them.</td>
+            </tr>
+          </table>
+
+          <h1> Californian Rabbits</h1>
+          <p>A cross between a Himalayan and a Chinchilla, the Cal's dense coat allows them to enjoy time indoors and outdoors (including the snow). Although bred for show, the Californian loves to interact with its human family through play and cuddle time.</p>
+
+          <h1> Checkered Giant Rabbit</h1>
+          <p>Weighing in at about 13 pounds, a Checkered Giant is an ideal pet for couples or seniors looking for a companion. This breed is more independent than others and is less affectionate, but is still curious and gentle. Spot a Checkered Giant by the butterfly-like marking on its nose.        </p>
+
+          <h1> Dutch Rabbit</h1>
+          <p>Developed in England in the 1830s, the Dutch is one of the most popular breeds. Socializing is key for this energetic rabbit, who can become depressed if it spends too much time in its cage. Thanks to its easygoing attitude, children are more than welcomed to care for it.</p>
+
+          <h1> English Lop</h1>
+          <p>The English Lop's friendly, laid-back personality has earned it the nickname, "the Dog of the Rabbit World." It also holds the crown for having the longest ears, and it's no surprise this distinct feature requires a bit of maintenance. Their ears need to be regularly examined and their nails must be kept short (in case they step on their ears).</p>
+
+          <h1> English Spot</h1>
+          <p>The English Spot easily adapted to being a house pet after its long show rabbit history, which helped it get used to constant petting and handling. This bunny will fit right into any family, and it's recommended that the breed spend at least two hours outside their cage to stretch and hop around.</p>
+
+          <style>
+            table, th, td {
+              border:1px solid black;
+            }
+        </style>
+    </body>
+    </HTML>
