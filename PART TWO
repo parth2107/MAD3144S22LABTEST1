@@ -1,0 +1,13 @@
+<HTML>
+    <HEAD><h1> PART TWO</h1></HEAD>
+    <body>
+        <div id="mytext"></div>
+    </body>
+    <script>
+
+    const el = document.getElementById("mytext")
+    // Add text content to element
+    el.textContent = 'Using JavaScript, changing the contents of id mytext';
+    
+    </script>
+    </HTML>
